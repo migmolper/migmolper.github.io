@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Civil Engineering, Universidad de Sevilla, 2016
+* M.Eng. in Civil Engineering, Universidad Politécnica de Madrid, 2018
+* Ph.D in Computational Mechanics, Universidad Politécnica de Madrid, 2021
+
+Research stays
+======
+* UC. Berkeley with Professor Kenichi Soga (5 months, 2021) 
 
 Work experience
 ======
@@ -27,14 +31,16 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Programming skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+  * OpenMP
+  * MPI
+  * CUDA
+* PETSc, LAPACK, GSL
+* Python
+* Matlab
+* Fortran
 
 Publications
 ======
