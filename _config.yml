@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Molinos"
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Sevilla (SPAIN)"
   employer         :
