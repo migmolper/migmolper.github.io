@@ -85,7 +85,6 @@ author:
   bio              : "PhD in Computational Mechanicsr"
   location         : "Sevilla (SPAIN)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "m.molinos@outlook.es"
   researchgate     : "https://www.researchgate.net/profile/Miguel-Molinos-Perez"
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/migmolper"
+  github           : "migmolper"
   google_plus      :
   keybase          :
   instagram        :
