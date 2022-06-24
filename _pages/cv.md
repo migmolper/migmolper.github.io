@@ -11,26 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Civil Engineering, Universidad de Sevilla, 2016
-* M.Eng. in Civil Engineering, Universidad Politécnica de Madrid, 2018
-* Ph.D in Computational Mechanics, Universidad Politécnica de Madrid, 2021
+
+University of Sevilla, Spain
+B.S. Civil Engineering, September 2016 
+Major field: Hydraulics
+
+Polytechnical University of Madrid, Spain
+M.Eng. Civil Engineering, September 2018
+Major field: Hydraulics 
+
+Polytechnical University of Madrid, Spain
+Ph.D. Civil Engineering, December 2021
+Major fields: Structural, Continuum and Computational Mechanics
+Supervisor: Manuel Pastor
+Dissertation title: "The Local Maximum-Entropy Material Point Method"
+
+Honors and Awards
+======
+* 1/2019-10/2020: [Agustín de Betancourt Scholarship](https://fundacionabetancourt.org/)
+* 1/2021-12/2021: [Entrecanales Ibarra Scholarship](https://fentrecanalesibarra.es/)
+* 3/2021-8/2021: Research Mobility Programme at North American Universities
 
 Research stays
 ======
-* UC. Berkeley with Professor Kenichi Soga (5 months, 2021) 
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
+* March to August 2021: Visiting Scholar
+  * University of California Berkeley
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Kenichi Soga
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Memberships
+======
+* 10/2018-12/2021: [ALERT Geomaterials](https://alertgeomaterials.eu/)
+* 10/2021-Now: [SEMTA](https://www.semta.org.es/)
+
 Programming skills
 ======
 * C/C++
@@ -60,6 +73,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

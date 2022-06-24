@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Research interest
+Research Interest
 ======
 Miguel Molinos is a recent Ph.D. graduate in Computational Mechanics. His main line of
 research during his PhD was the mathematical and numerical modelling of the inelastic behaviour of structures,
 geostructures, and engineering materials (soils, concrete, steel, and rubber-like substances)
 using mesh-free techniques. Right now he is working on the development of multiscale methods.
 
-Short bio
+Short Biography
 ======
 He received his (4 years) B.Eng. degree in Civil Engineering from the Universidad de Sevilla,
 awarding an honours grade for his bachelor’s thesis in tsunami simulation. As an
