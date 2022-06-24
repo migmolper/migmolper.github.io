@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 
-University of Sevilla, Spain
-B.S. Civil Engineering, September 2016 
-Major field: Hydraulics
+University of Sevilla, Spain \
+B.S. Civil Engineering, September 2016 \
+Major field: Hydraulics \
 
-Polytechnical University of Madrid, Spain
-M.Eng. Civil Engineering, September 2018
-Major field: Hydraulics 
+Polytechnical University of Madrid, Spain \
+M.Eng. Civil Engineering, September 2018 \
+Major field: Hydraulics \ 
 
-Polytechnical University of Madrid, Spain
-Ph.D. Civil Engineering, December 2021
-Major fields: Structural, Continuum and Computational Mechanics
-Supervisor: Manuel Pastor
-Dissertation title: "The Local Maximum-Entropy Material Point Method"
+Polytechnical University of Madrid, Spain \
+Ph.D. Civil Engineering, December 2021 \
+Major fields: Structural, Continuum and Computational Mechanics \
+Supervisor: Manuel Pastor \
+Dissertation title: "The Local Maximum-Entropy Material Point Method" \
 
 Honors and Awards
 ======
@@ -34,9 +34,9 @@ Honors and Awards
 
 Research stays
 ======
-* March to August 2021: Visiting Scholar
-  * University of California Berkeley
-  * Duties included: Tagging issues
+* 3/2021-8/2021: University of California, Berkeley 
+  * Visiting Scholar
+  * Finantial suport: Universidad Politécnica de Madrid
   * Supervisor: Professor Kenichi Soga
 
 Memberships
