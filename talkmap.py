@@ -1,5 +1,4 @@
 
-
 # # Leaflet cluster map of talk locations
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
@@ -18,7 +17,7 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+geocoder = Nominatim(user_agent="m.molinos@outlook.es", timeout=5)
 location_dict = {}
 location = ""
 permalink = ""
