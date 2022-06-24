@@ -14,11 +14,11 @@ Education
 
 University of Sevilla, Spain \
 B.S. Civil Engineering, September 2016 \
-Major field: Hydraulics
+Major fields: Hydraulics and Hydrology
 
 Polytechnical University of Madrid, Spain \
 M.Eng. Civil Engineering, September 2018 \
-Major field: Hydraulics
+Major fields: Hydraulics and Hydrology
 
 Polytechnical University of Madrid, Spain \
 Ph.D. Civil Engineering, December 2021 \
@@ -26,11 +26,11 @@ Major fields: Structural, Continuum and Computational Mechanics \
 Supervisor: Manuel Pastor \
 Dissertation title: "The Local Maximum-Entropy Material Point Method"
 
-Honors and Awards
+Research funding
 ======
 * 01/2019-10/2020: [Agustín de Betancourt Scholarship](https://fundacionabetancourt.org/)
 * 01/2021-12/2021: [Entrecanales Ibarra Scholarship](https://fentrecanalesibarra.es/)
-* 03/2021-08/2021: Research Mobility Programme at North American Universities
+* 03/2021-08/2021: [Research Mobility Programme at North American Universities](https://www.upm.es/Personal/PDI/Movilidad/ProrgramasAmericaNorte)
 
 Research stays
 ======
@@ -54,6 +54,7 @@ Programming skills
 * Python
 * Matlab
 * Fortran
+* Bash scripting
 
 Publications
 ======
