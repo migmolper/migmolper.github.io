@@ -4,7 +4,7 @@ an Explicit Predictor-Corrector Scheme"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-02-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0045782520306976'
 citation: 'Molinos et al. (2021). &quot; On the dynamic assessment of the Local Maximum-Entropy Material Point Method through
