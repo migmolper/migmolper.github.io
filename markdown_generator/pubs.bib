@@ -1,5 +1,6 @@
 @article{Molinos_et_al_2020a,
 author = {Molinos, M. and Navas, P. and Pastor, M. and Mart\'in Stickle, M.},
+abstract = {Material Point Method (MPM) has arisen in the recent years as an alternative to Finite Element Method (FEM) under large deformations. However, the simulation of shock waves propagation in the large deformation regime is still challenging under this approach due to the incapability of the standard MPM time integration scheme to filter spurious noises. To overcome it, we propose in this paper an explicit Predictor–Corrector time integration scheme. Its powerful performance mitigates the presence of spurious oscillations with minimal dissipation in high frequency problems. Other source of numerical noise in MPM occurs when the material points cross computational grid boundaries, being caused by the lack of smoothness of the interpolation functions. This noise results in spurious local variations at the material points, where strain–stress fields are computed. This could lead to inaccurate solutions as well as aborted simulations in the worst cases. To surmount it, we propose in this work the Local Maximum-Entropy (LME) approximation schemes as a robust substitute of the traditional shape function in MPM. The performance of both improvements is validated by the high quality results of the numerical examples.},
 journal = {Computer Methods in Applied Mechanics and Engineering},
 title = {{On the dynamic assessment of the Local-Maximum Entropy Material Point Method through an Explicit Predictor-Corrector Scheme}},
 year = {2021},
@@ -11,6 +12,7 @@ doi = {https://doi.org/10.1016/j.cma.2020.113512}
 
 @article{Molinos_et_al_2020b,
 author = {Molinos, M. and Navas, P. and Manzanal, D. and Pastor, M.},
+abstract = {This work aims to introduce an alternative technique to address the fracture process of brittle and quasi-brittle materials under the Material Point Method (MPM) framework. With this purpose the eigensoftening algorithm, developed originally for the Optimal Transportation Meshfree (OTM) approximation scheme, is extended to the MPM to present a suitable alternative to the existing fracture algorithms developed for such a methodology. The good fitting in the predictions made by the eigensoftening algorithm against both analytical and experimental results proves the excellent performance of the method when challenging applications are to model.},
 journal = {Engineering Fracture Mechanics},
 title = {{Local Maximum Entropy Material Point Method applied to quasi-brittle fracture.}},
 volume = {241},
@@ -22,6 +24,7 @@ doi = {https://doi.org/10.1016/j.engfracmech.2020.107394}
 
 @article{Molinos_et_al_2021,
 author = {Molinos, M. and M. Stickle, M. and Navas, P. and Yagüe, A. and Manzanal, D. and Pastor, M.},
+abstract = {The material point method can be regarded as a meshfree extension of the finite element method. This fact has two interesting consequences. On the one hand, this puts a vast literature at our disposal. On the other hand, many of this inheritance has been adopted without questioning it. A clear example of it is the use of the Voigt algebra, which introduces an artificial break point between the formulation of the continuum problem and its discretized counterpart. In the authors' opinion, the use of the Voigt rules leads to a cumbersome formulation where the physical sense of the operations is obscured since the well-known algebra rules are lost. And with them, the intuition about how stresses and strains are related. To illustrate it, we will describe gently and meticulously the whole process to solve the nonlinear governing equations for isothermal finite strain elastodynamics, concluding with a compact set of expressions ready to be implemented effortless. In addition, the classic Newmark-𝛽 algorithm has been accommodated to the local maximum-entropy material point method framework by means of an incremental formulation.},
 title = {Toward a local maximum-entropy material point method at finite strain within a B-free approach},
 journal = {International Journal for Numerical Methods in Engineering},
 volume = {122},
@@ -33,15 +36,20 @@ year = {2021}
 
 @article{Stickle_et_al_2020,
 author = {Stickle, M.M. and Molinos, M. and Navas, P. and Yague, A. and Manzanal, D. and Moussavi, S. and Pastor, M.},
+abstract = {Standard finite element formulation and implementation in solid dynamics at large strains usually relies upon and indicial-tensor Voigt notation to factorized the weighting functions and take advantage of the symmetric structure of the algebraic objects involved. In the present work, a novel component-free approach, where no reference to a basis, axes or components is made, implied or required, is adopted for the finite element formulation. Under this approach, the factorisation of the weighting function and also of the increment of the displacement field, can be performed by means of component-free operations avoiding both the use of any index notation and the subsequent reorganisation in matrix Voigt form. This new approach leads to a straightforward implementation of the formulation where only vectors and second order tensors in ℝ3 are required. The proposed formulation is as accurate as the standard Voigt based finite element method however is more efficient, concise, transparent and easy to implement.},
 journal = {Computational Mechanics},
 title = {A component-free Lagrangian finite element formulation for large strain elastodynamics},
-year = {2021}
+volume = {69},
+pages = {639–660},
+doi = {https://doi.org/10.1007/s00466-021-02107-0},
+year = {2022}
 }
 
 
 @article{Navas_et_al_2021b,
 	author = {Navas, P. and Molinos, M. and Stickle, M. M. and Manzanal, D. and Yag{\"u}e, A. and Pastor, M.},
-	doi = {10.1007/s40571-021-00436-8},
+	abstract = {In this paper, an efficient and robust methodology to simulate saturated soils subjected to low-medium frequency dynamic loadings under large deformation regime is presented. The coupling between solid and fluid phases is solved through the dynamic reduced formulation 𝑢−𝑝w (solid displacement – pore water pressure) of the Biot’s equations. The additional novelty lies in the employment of an explicit two-steps Newmark predictor-corrector time integration scheme that enables accurate solutions of related geomechanical problems at large strain without the usually high computational cost associated with the implicit counterparts. Shape functions based on the elegant Local Maximum Entropy approach, through the Optimal Transportation Meshfree framework, are considered to solve numerically different dynamic problems in fluid saturated porous media. },
+	doi = {https://doi.org/10.1007/s40571-021-00436-8},
 	isbn = {2196-4386},
 	journal = {Computational Particle Mechanics},
 	title = {Explicit meshfree $u-p_w$ of the dynamic Biot formulation at large strain},
@@ -50,6 +58,7 @@ year = {2021}
 
 @article{Navas_et_al_2021a,
 author = {Navas, P. and Pastor, M. and Yagüe, A. and Stickle, M. M. and Manzanal, D. and Molinos, M.},
+abstract = {Dynamic problems of fluid-saturated soils have to be assessed through a complete formulation where dynamic terms take place. The main dynamic Biot's formulation, the 𝑢−𝑤, is employed widely in the literature in order to accurately study the dynamic phenomena. However, depending on the spatial discretization this formulation is utilizing, numerical errors may appear within this approach. The proposed methodology, which is presented in this research, aims to solve the aforementioned problems within an elegant algorithm. Two interesting environmental applications, a consolidation of a fluid-saturated soil and the seepage of the water through an earth dam, are presented in this paper.},
 title = {Fluid stabilization of the $u-w$ Biot formulation at large strain},
 journal = {International Journal for Numerical and Analytical Methods in Geomechanics},
 volume = {45},
@@ -63,7 +72,8 @@ year = {2021}
 
 @article{Pastor_et_al_2021,
 	author = {Pastor, M. and Tayyebi, S. M. and Stickle, M. M. and Yag{\"u}e, A. and Molinos, M. and Navas, P. and Manzanal, D.},
-	doi = {10.1007/s11440-020-01114-4},
+	abstract = {Debris flows are a type of fast landslides where a mixture of soil and water propagates along narrow channels. The main characteristics are (1) important relative displacements between the solid and fluid phases, and (2) development of pore-water pressures in excess to hydrostatic. The ratios between vertical and horizontal displacements of the flow, from the triggering point to the deposition, indicate that friction angles are much smaller than those measured in laboratories. Debris flows are modeled as two phases flow, but implementing pore-water pressure is an important issue. The purpose of this paper is to improve the existing two phases debris flow models by implementing pore-water pressures in excess to hydrostatic. It is found that pore pressure evolution depends on consolidation, changes in the flow depth, and changes and gradients of porosity. The proposed depth integrated mathematical model is discretized using two sets of SPH nodes (solid and fluid), with a set of finite difference meshes associated with each solid material SPH point. The paper presents two examples from where it is possible to gain insight into the differences between the models (with and without excess pore water pressure).},
+	doi = {https://doi.org/10.1007/s11440-020-01114-4},
 	isbn = {1861-1133},
 	journal = {Acta Geotechnica},
 	number = {8},
@@ -75,6 +85,7 @@ year = {2021}
 
 @article{Navas_et_al_2020,
 title = {Meshfree modeling of cyclic behavior of sands within large strain Generalized Plasticity Framework},
+abstract = {In this publication the finite strain formulation is enhanced with a Generalized Plasticity model for sands. The new model is numerically solved using an Optimal Transportation Meshfree approach that is best suited for numerical analysis at finite strains. This new model allows to capture the hydro-mechanical response under large deformations of a saturated sand like soils where acceleration of water with respect the solid skeleton is not negligible. To the authors’ knowledge, no attempt has been previously devoted to include in the finite strain approach an elastoplastic behavior from the Generalized Plasticity theory. In order to assess the validity of the proposed model, four standard laboratory tests are numerically reproduced: i) an undrained triaxial test under monotonic loading, ii) a triaxial consolidation test under monotonic loading with drained boundary conditions, iii) an undrained cyclic triaxial test and iv) a drained cyclic triaxial test. The observed results are qualitatively correct and in agreement with numerical solutions previously obtained by other researchers and with related experimental data.},
 journal = {Computers and Geotechnics},
 volume = {122},
 pages = {103538},
