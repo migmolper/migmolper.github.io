@@ -9,3 +9,6 @@ location: "Barcelona, Spain"
 ---
 
 A component-free formulation for finite strain poromechanics problems was presented
+
+
+[COMPLAS_2021.pdf](https://github.com/migmolper/migmolper.github.io/files/8978323/COMPLAS_2021.pdf)
