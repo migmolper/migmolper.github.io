@@ -32,8 +32,6 @@ Research funding
 * 11/2020-12/2020: I+D contract with Spanish National Research Project (PI: Manuel Pastor, BIA2016-76253-P)
 * 01/2021-12/2021: [Entrecanales Ibarra Scholarship](https://fentrecanalesibarra.es/)
 * 03/2021-08/2021: [Research Mobility Programme at North American Universities](https://www.upm.es/Personal/PDI/Movilidad/ProrgramasAmericaNorte)
-* 08/2022-12/2022: I+D contract with Spanish National Research Project (PI: Pilar Ariza, RTI2018-094325-B-I00)
-* 01/2023-01/2025: Juan de la Cierva Postdoctoral Fellowship
 
 Research stays
 ======
